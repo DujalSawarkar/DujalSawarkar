@@ -16,10 +16,12 @@
 
   
 <div><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=DujalSawarkar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="DujalSawarkar"></p></div><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DujalSawarkar&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DujalSawarkar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DujalSawarkar&theme=tokyonight&hide_border=false" alt="DujalSawarkar"></p></div>
+<br/>
+<div><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DujalSawarkar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="DujalSawarkar"></p></div>
 <br>
-[![](https://visitcount.itsvg.in/api?id=DujalSawarkar&icon=0&color=0)](https://visitcount.itsvg.in)
+<div><p align="center"><img src="https://visitcount.itsvg.in/api?id=DujalSawarkar&icon=0&color=0" alt="DujalSawarkar"></p></div>
+[![]()](https://visitcount.itsvg.in)
 
 
 
