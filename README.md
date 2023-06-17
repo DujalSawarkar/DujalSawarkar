@@ -20,8 +20,9 @@
 <br/>
 <div><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DujalSawarkar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="DujalSawarkar"></p></div>
 <br>
-<div><p align="center"><img src="https://visitcount.itsvg.in/api?id=DujalSawarkar&icon=0&color=0" alt="DujalSawarkar"></p></div>
-[![]()](https://visitcount.itsvg.in)
+<div><p align="center">
+[![](https://visitcount.itsvg.in/api?id=DujalSawarkar&icon=0&color=0)](https://visitcount.itsvg.in)
+</p></div>
 
 
 
