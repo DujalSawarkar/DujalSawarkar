@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🎓I'm a Student and Developer.<br>🌱 I’m currently learning Frontend development<br>😎Checkout my Project [ https://github.com/DujalSawarkar/Web-Dev-Projects]<br><br>
+🎓I'm a Student and Full Stack Developer.<br>🌱 I’m currently learning Devops <br>😎Checkout my Project [ https://github.com/DujalSawarkar/Web-Dev-Projects]<br><br>
 
 
 ## 🌐 Socials:
